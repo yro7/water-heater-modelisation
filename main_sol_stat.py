@@ -7,14 +7,14 @@ import matplotlib.pyplot as plt
 
 # Données géométriques 
 L = 1.0 
-Hs = 0.025
-Hf = 0.01
+Hs = 0.01
+Hf = 0.025
 Ht = Hs+Hf
 
 # Données physique
 ks = 16.0    # Conductivité thermique acier en W m^-1 K^-1  
 kf = 0.6     # Conductivité thermique de l'eau
-rhof = 200000  # masse volumique de l'eau
+rhof = 1000  # masse volumique de l'eau
 cf = 4180    # capacité calorifique massique de l'eau 
 Te = 300.0     # température d'entrée de l'eau 
 umax = 0.001    # vitesse max de l'eau 
