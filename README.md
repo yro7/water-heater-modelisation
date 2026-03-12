@@ -29,6 +29,13 @@ Adjust parameters in the main script (geometry, thermal properties, mesh size) t
 - `Iso_Temp_I*_J*.png` – 2D temperature field contour plot
 - `Profil_T_y_I*_J*.png` – Vertical temperature profiles at different x-positions
 
+## Results
+
+<img width="1524" height="881" alt="image" src="https://github.com/user-attachments/assets/edf7a5c6-8fdb-441d-9d75-cfd1cc4a80bf" />
+
+<img width="1430" height="895" alt="image" src="https://github.com/user-attachments/assets/825b04c1-034e-419e-b740-c10aac12412d" />
+
+
 ## Authors
 
 Nolan C., Marin D.
